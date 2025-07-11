@@ -21,7 +21,3 @@ Districts: The Pits, The Creets, Northroads
 
 ### Shops
 - Four Corners Tavern: large and rowdy tavern with a fighting pit. 
-
-### People of Interest:
-- First met Tide Piercers, another adventuring party.
-
