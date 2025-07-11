@@ -2,7 +2,7 @@
 title: Raven Queen
 draft: false
 tags:
-  - Divine
+  - Divinity
 ---
  
 ### Quick Facts

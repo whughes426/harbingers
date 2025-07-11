@@ -1,4 +1,10 @@
- 
+---
+title: Sehanine
+draft: false
+tags:
+  - Divinity
+---
+
 ### Quick Facts
 - **Type:** Prime Deity
 - **Title:** The Moonweaver

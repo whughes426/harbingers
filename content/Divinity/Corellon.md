@@ -1,3 +1,10 @@
+---
+title: Corellon
+draft: false
+tags:
+  - Divinity
+---
+
 ### Quick Facts
 - **Type:** Prime Deity
 - **Title:** The Archheart, Parent of All Elves

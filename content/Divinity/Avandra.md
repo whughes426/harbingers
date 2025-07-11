@@ -1,5 +1,5 @@
 ---
-title: Loth
+title: Avandra
 draft: false
 tags:
   - Divinity
@@ -15,3 +15,5 @@ tags:
 - **Home plane:** Arborea
 - **Worshipers:** Merchants, Adventurers, Travelers
 - **Associated Domains:** Moon, Nature, Trickery
+
+As a goddess of change and trickery Avandra can be very mercurial, and although she isn't necessarily manipulative, she does change her approach to different issues, sending messages to her followers in different ways and tones in order to find the one that will resonate with them the most.
