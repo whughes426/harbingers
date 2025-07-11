@@ -1,3 +1,10 @@
+---
+title: Hupperdooke
+draft: false
+tags:
+  - Location
+---
+ 
 Name: Hupperdooke<br>
 Location: Marrow Valley, Wildemount<br>
 Affiliation: Dwendalian Empire<br>

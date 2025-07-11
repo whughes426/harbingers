@@ -1,3 +1,10 @@
+---
+title: Rosohna
+draft: false
+tags:
+  - Location
+---
+ 
 Name: Rosohna<br>
 Location: Xhorhas, Wildemount<br>
 Affiliation: Kryn Dynasty<br>

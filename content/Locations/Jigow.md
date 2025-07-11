@@ -1,3 +1,10 @@
+---
+title: Jigow
+draft: false
+tags:
+  - Location
+---
+ 
 Name: Jigow<br>
 Location: Xhorhas, Wildemount<br>
 Affiliation: Kryn Dynasty<br>

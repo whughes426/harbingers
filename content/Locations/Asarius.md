@@ -1,3 +1,11 @@
+---
+title: Asarius
+draft: false
+tags:
+  - Location
+---
+ 
+
 Name: Asarius<br>
 Location: Xhorhas, Wildemount<br>
 Affiliation: Kryn Dynasty<br>
