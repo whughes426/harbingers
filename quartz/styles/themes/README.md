@@ -1,11 +1,11 @@
-# 80s Neon
+# Hackthebox
 
-- Theme: 80s Neon
-- Author: deathau
+- Theme: Hackthebox
+- Author: <a href="https://github.com/golam71" target="_blank" rel="noopener noreferrer">golam71</a>
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/80s-neon/)
+[Open live preview](https://quartz-themes.github.io/hackthebox/)
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ```yaml
 env:
-  THEME_NAME: 80s-neon
+  THEME_NAME: hackthebox
 ```
 
 ```yaml
@@ -26,7 +26,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh 80s-neon
+./action.sh hackthebox
 ```
 
 ### Manual install

@@ -10,6 +10,7 @@ tags:
 - Formerly the Lair of Stahlmast, taken over by the Harbingers.  
 - Maintained by Steve and Fred.
 - Currently holds 12 Kobold defenders (in Kobold barracks).
+- Has a teleportation circle that goes to Rexxentrum and Asarius
 ### Existing rooms (underground):
 1. Turret cavern
 2. **Armory (special facility)**
@@ -30,5 +31,12 @@ tags:
 17. Surgery Room
 18. Stalmast's bedroom
 19. Clockwork forge
-20. **Transportation circle (DM to confirm)**
+20. **Transportation circle (special facility)**
+
+Note: In order to get the benefit of the special ability a player character must decide to keep the special facilities above as one of their options.
+
+### Size
+- 18,125 sq.ft. (underground)
+
+
 
