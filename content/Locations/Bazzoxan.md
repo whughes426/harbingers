@@ -5,28 +5,27 @@ tags:
   - Location
 ---
  
-Name: Jigow<br>
+Name: Bazzoxan<br>
 Location: Xhorhas, Wildemount<br>
 Affiliation: Kryn Dynasty<br>
 Military: Aurora Watch<br>
-Population: Gobinkin, Orc<br>
+Population: Drow, Gobinkin<br>
 Districts: The Meatwaters, The Jumble, The Wetwalks 
 
 
 ### Points of Interest:
-- **The Emerald Grotto:**  a curling network of underwater caverns; entrance is on Black Island.
-- **Festival of Merit:** annual festival
+- Betrayers' Rise: ancient jet-black temple of the Betrayer Gods.
+- Gatehold Barracks: command center for the Taskhand and his senior officers.
+- Temple to the Changebring: partially destroyed, but turned into a garden by the firbolg Foghome.
+- Crematorium: operated by two brothers, Reynard and Sebastian Allerton.
+- Infirmery: bordering the center square, managed by Bautha Dyrr.
+- Wall of the Unforgotten: dedicated to the soldier and others who have died.
 
 ### Shops
-- **The Unbroken Tusk Inn:** an establishment renowned for their pies.
-- **Beefslab Butchers:** owned by Vars.
+- The Ready Room: inn
 ### People of Interest:
-- Colbu Kaz, elder, goblin priest
-- Ushru, elder, orc priest
-- Belana Zolaed, drow priest of the Luxon
-- Irvan Wastewalker, human contestant in the pie eating contest
-- Maggie Keeneyes, ogre contestant in the maze
-- Dermot Wurder, goblin contestant in the maze
-- Ayo Jabe, water genasi who leads the Tide Piercers
-- Galsariad Ardyth, drow wizard, member of the Tide Piercers
-
+- Verin Thelyss, Taskhand
+- Foghome, firbolg gardener in the temple to the Changebringer
+- Bautha Dyrr, cleric
+- Question: agent of the Cobalt Soul, researching Betrayers' Rise
+- Prolix Yusaf: tiefling agent of the Allegiance of Allsight, researching Betrayers' Rise
