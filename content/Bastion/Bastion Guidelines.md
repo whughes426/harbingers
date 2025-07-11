@@ -18,6 +18,7 @@ tags:
 5. Recruit
 6. Research
 7. Trade
+
 ### Special Facilities (available at Level 5)
 1. Arcane Study (craft)
 2. Armory (trade)
