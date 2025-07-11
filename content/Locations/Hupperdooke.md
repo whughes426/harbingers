@@ -5,13 +5,12 @@ tags:
   - Location
 ---
  
-Name: Hupperdooke<br>
-Location: Marrow Valley, Wildemount<br>
-Affiliation: Dwendalian Empire<br>
-Military: Crownsguard<br>
-Population: Gnome, Dwarf<br>
-Districts: Lower Hupperdooke, Upper Hupperdooke 
-
+**Name:** Hupperdooke<br>
+**Location:** Marrow Valley, Wildemount<br>
+**Affiliation:** Dwendalian Empire<br>
+**Military:** Crownsguard<br>
+**Population:** Gnome, Dwarf<br>
+**Districts:** Lower Hupperdooke, Upper Hupperdooke 
 
 ### Points of Interest:
 - **Assembly Yard:** where war machines are built and tested.

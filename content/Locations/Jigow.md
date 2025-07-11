@@ -5,13 +5,12 @@ tags:
   - Location
 ---
  
-Name: Jigow<br>
-Location: Xhorhas, Wildemount<br>
-Affiliation: Kryn Dynasty<br>
-Military: Aurora Watch<br>
-Population: Gobinkin, Orc<br>
-Districts: The Meatwaters, The Jumble, The Wetwalks 
-
+**Name:** Jigow<br>
+**Location:** Xhorhas, Wildemount<br>
+**Affiliation:** Kryn Dynasty<br>
+**Military:** Aurora Watch<br>
+**Population:** Gobinkin, Orc<br>
+**Districts:** The Meatwaters, The Jumble, The Wetwalks 
 
 ### Points of Interest:
 - **The Emerald Grotto:**  a curling network of underwater caverns; entrance is on Black Island.

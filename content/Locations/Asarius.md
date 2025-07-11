@@ -6,13 +6,12 @@ tags:
 ---
  
 
-Name: Asarius<br>
-Location: Xhorhas, Wildemount<br>
-Affiliation: Kryn Dynasty<br>
-Military: Aurora Watch<br>
-Population: Goblinkin, Gnolls<br>
-Districts: The Pits, The Creets, Northroads 
-
+**Name:** Asarius<br>
+**Location:** Xhorhas, Wildemount<br>
+**Affiliation:** Kryn Dynasty<br>
+**Military:** Aurora Watch<br>
+**Population:** Goblinkin, Gnolls<br>
+**Districts:** The Pits, The Creets, Northroads 
 
 ### Points of Interest:
 - Aurora Hold: seat of government, built of stone and tinted glass.
