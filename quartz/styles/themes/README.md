@@ -1,11 +1,11 @@
-# Tokyo Night
+# 80s Neon
 
-- Theme: Tokyo Night
-- Author: tcmmichaelb139
+- Theme: 80s Neon
+- Author: deathau
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/tokyo-night/)
+[Open live preview](https://quartz-themes.github.io/80s-neon/)
 
 ## Usage
 
@@ -13,7 +13,7 @@
 
 ```yaml
 env:
-  THEME_NAME: tokyo-night
+  THEME_NAME: 80s-neon
 ```
 
 ```yaml
@@ -26,7 +26,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh tokyo-night
+./action.sh 80s-neon
 ```
 
 ### Manual install
